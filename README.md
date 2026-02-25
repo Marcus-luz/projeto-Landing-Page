@@ -16,8 +16,8 @@ O projeto foi criado para consolidar o aprendizado nas tecnologias introdutória
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 * **Frontend:**
-    * HTML5
-    * CSS3
+    * HTML
+    * CSS
     * JavaScript
 * **Ferramentas:**
     * Git e GitHub
