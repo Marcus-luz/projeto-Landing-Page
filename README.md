@@ -22,9 +22,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 * **Ferramentas:**
     * Git e GitHub
     * VS Code
- 
-  ```
-# Visualização Final Frontend 
+ ---
+# ✨Visualização Final Frontend 
 <img width="1896" height="917" alt="image" src="https://github.com/user-attachments/assets/e7408ba6-7d7f-4d2f-8916-4db926a68a36" />
 <img width="1880" height="687" alt="image" src="https://github.com/user-attachments/assets/0df8436e-c129-4647-991c-8a7f84fc6639" />
 
